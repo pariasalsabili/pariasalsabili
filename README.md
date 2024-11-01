@@ -1,4 +1,4 @@
-# Hi there, I'm Paria Salsabili 👋
+# Hi there👋
 
 ### 👨‍💻 About Me
 - Computer Science student at the University of Guilan 📚
