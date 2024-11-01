@@ -1,8 +1,9 @@
 # Hi there, I'm Paria Salsabili 👋
-![Header Animation](https://your-image-link.com/animated-banner.gif)
 
 ### 👨‍💻 About Me
-I'm a passionate developer living in Iran, and interested in web development. I love to create, learn, and explore!
+- Computer Science student at the University of Guilan 📚
+- I'm a passionate developer, interested in front-end development.
+- I love to create, learn, and explore!
 
 ---
 
