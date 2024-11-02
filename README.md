@@ -4,7 +4,6 @@ Computer Science student at the University of Guilan 📚
 
 
 ### 👨‍💻 About Me
-- Computer Science student at the University of Guilan 📚
 - A passionate software developer.💻
 - Currently learning courses, libraries, etc.🌱
 
