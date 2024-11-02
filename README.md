@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - Computer Science student at the University of Guilan 📚
-- I'm a passionate developer, interested in front-end development.
+- I'm a passionate front-end developer.
 - I love to create, learn, and explore!
 
 ---
