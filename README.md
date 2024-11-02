@@ -1,9 +1,12 @@
-# Hi there👋
+# Hi there👋 I'm Paria
+🚀 Software Developer | 🌱 Lifelong Learner | 💻 Open Source Enthusiast
+
+---
 
 ### 👨‍💻 About Me
 - Computer Science student at the University of Guilan 📚
-- I'm a passionate front-end developer.
-- I love to create, learn, and explore!
+- A passionate front-end developer.
+- Currently learning courses, libraries, etc.
 
 ---
 
@@ -23,8 +26,13 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
-
 ---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paria-salsabili)
+
+--- 
 
 ### 📫 How to Reach Me
 
