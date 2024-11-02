@@ -1,7 +1,7 @@
 # Hi there👋 I'm Paria
 🚀 Software Developer | 🌱 Lifelong Learner | 💻 Open Source Enthusiast
 
----
+
 
 ### 👨‍💻 About Me
 - Computer Science student at the University of Guilan 📚
