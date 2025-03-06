@@ -1,5 +1,5 @@
 # Hi there👋 I'm Paria
-Computer Science student at the University of Guilan 📚
+Computer Science student 📚
 
 
 
