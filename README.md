@@ -4,7 +4,7 @@ Computer Science student 📚
 
 
 ### 👨‍💻 About Me
-- A passionate software developer.💻
+- Passionate about web programming.💻
 - Currently learning courses, libraries, etc.🌱
 
 ---
